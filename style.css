@@ -110,7 +110,7 @@ h1, h2, h3 { font-family: 'Fraunces', serif; }
 }
 
 .brand-img {
-  height: 60px; width: 60px;
+  height: 150px; width: 150px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 18px;
@@ -234,7 +234,7 @@ h1, h2, h3 { font-family: 'Fraunces', serif; }
 
   .nav-links.open { transform: translateX(0); }
 
-  .brand-img { height: 46px; width: 46px; }
+  .brand-img { height: 150px; width: 150px; }
   .hero { padding: 0 24px; }
   .hero h1 { font-size: 2.4rem; }
   .signature { font-size: 1.4rem; }
